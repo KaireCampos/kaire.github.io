@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITE DDB1!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #fff;
+            text-align: center;
+            padding: 40px;
+        }
+        h1 {
+            color: #4ADE80;
+        }
+        p {
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>MIXTAPEDESTAQUEDOBAIRRO</h1>
+    <p>Se voce chegou ate aqui, voce foi escolhido para escutar antecipadamentea mix tape Destaque do Bairro.</p>
+    <p>Aproveite a experiencia e desde ja agradeço sua participaçãoa. </p>
+</body>
+</html>
